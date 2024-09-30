@@ -1,0 +1,27 @@
+{
+  "version": "2.2.0",
+  "summary": {
+    "title": "Mod5ThreatModelWorkshopExcercise",
+    "owner": "Vigneshwaran Harikrishnan",
+    "description": "Mod5Excercise",
+    "id": 0
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "id": 0,
+        "title": "Mod5Excercise",
+        "diagramType": "STRIDE",
+        "placeholder": "New STRIDE diagram description",
+        "thumbnail": "./public/content/images/thumbnail.stride.jpg",
+        "version": "2.2.0",
+        "cells": [],
+        "description": "Mod5Excercise"
+      }
+    ],
+    "diagramTop": 1,
+    "reviewer": "Vigneshwaran Harikrishnan",
+    "threatTop": 0
+  }
+}
