@@ -38,8 +38,8 @@
             },
             "visible": true,
             "shape": "actor",
-            "id": "9f088d6f-48e0-4cfb-a44d-15ca3f1fb53d",
             "zIndex": 1,
+            "id": "9f088d6f-48e0-4cfb-a44d-15ca3f1fb53d",
             "data": {
               "type": "tm.Actor",
               "name": "Customers/Attendees\n",
@@ -53,8 +53,8 @@
           },
           {
             "position": {
-              "x": -180,
-              "y": 435
+              "x": -212.5,
+              "y": 350
             },
             "size": {
               "width": 140,
@@ -72,8 +72,8 @@
             },
             "visible": true,
             "shape": "actor",
-            "id": "23bff146-360d-4587-ad9c-229f932e087e",
             "zIndex": 2,
+            "id": "23bff146-360d-4587-ad9c-229f932e087e",
             "data": {
               "type": "tm.Actor",
               "name": "Event Organizers",
@@ -106,8 +106,8 @@
             },
             "visible": true,
             "shape": "actor",
-            "id": "c51ada8a-46a6-43a9-bf86-191f873b60ff",
             "zIndex": 3,
+            "id": "c51ada8a-46a6-43a9-bf86-191f873b60ff",
             "data": {
               "type": "tm.Actor",
               "name": "Developers\n",
@@ -140,8 +140,8 @@
             },
             "visible": true,
             "shape": "actor",
-            "id": "2418c480-9aaa-43b6-932d-2850a6c26564",
             "zIndex": 4,
+            "id": "2418c480-9aaa-43b6-932d-2850a6c26564",
             "data": {
               "type": "tm.Actor",
               "name": "Vendors/Sponsors",
@@ -174,8 +174,8 @@
             },
             "visible": true,
             "shape": "actor",
-            "id": "d8c4572f-3be7-4bbf-b95b-d37a6ad2825d",
             "zIndex": 5,
+            "id": "d8c4572f-3be7-4bbf-b95b-d37a6ad2825d",
             "data": {
               "type": "tm.Actor",
               "name": "Security and Compliance Officers",
@@ -208,8 +208,8 @@
             },
             "visible": true,
             "shape": "actor",
-            "id": "b08b6138-0310-4b37-8f81-f777c6b3be12",
             "zIndex": 6,
+            "id": "b08b6138-0310-4b37-8f81-f777c6b3be12",
             "data": {
               "type": "tm.Actor",
               "name": "Auditors",
@@ -223,8 +223,8 @@
           },
           {
             "position": {
-              "x": 90,
-              "y": -100
+              "x": -72.5,
+              "y": -140
             },
             "size": {
               "width": 112.5,
@@ -242,8 +242,8 @@
             },
             "visible": true,
             "shape": "actor",
-            "id": "c4fa6e2e-29c6-40f8-b794-96d37767fc96",
             "zIndex": 7,
+            "id": "c4fa6e2e-29c6-40f8-b794-96d37767fc96",
             "data": {
               "type": "tm.Actor",
               "name": "Support Staff",
@@ -257,8 +257,8 @@
           },
           {
             "position": {
-              "x": -59.999999999999986,
-              "y": -30
+              "x": -210,
+              "y": -100
             },
             "size": {
               "width": 80,
@@ -276,8 +276,8 @@
             },
             "visible": true,
             "shape": "process",
-            "id": "7ab49cde-24f4-47b1-b4ac-8f756d7375d1",
             "zIndex": 8,
+            "id": "7ab49cde-24f4-47b1-b4ac-8f756d7375d1",
             "data": {
               "type": "tm.Process",
               "name": "User Reg/Auth",
@@ -294,8 +294,8 @@
           },
           {
             "position": {
-              "x": 20.000000000000014,
-              "y": 100
+              "x": 110,
+              "y": -50
             },
             "size": {
               "width": 60,
@@ -313,8 +313,8 @@
             },
             "visible": true,
             "shape": "process",
-            "id": "881e8f32-8988-4c20-8e75-6261d13664ac",
             "zIndex": 9,
+            "id": "881e8f32-8988-4c20-8e75-6261d13664ac",
             "data": {
               "type": "tm.Process",
               "name": "Ticket Purchase",
@@ -331,8 +331,8 @@
           },
           {
             "position": {
-              "x": 40,
-              "y": 410
+              "x": 1.4210854715202004e-14,
+              "y": 300
             },
             "size": {
               "width": 60,
@@ -350,8 +350,8 @@
             },
             "visible": true,
             "shape": "process",
-            "id": "d86caeff-0482-4aff-bc5d-d5b30324ddea",
             "zIndex": 10,
+            "id": "d86caeff-0482-4aff-bc5d-d5b30324ddea",
             "data": {
               "type": "tm.Process",
               "name": "Live Schedule Updates",
@@ -1656,8 +1656,8 @@
           },
           {
             "position": {
-              "x": 580,
-              "y": 0
+              "x": 262.5,
+              "y": -150
             },
             "size": {
               "width": 60,
@@ -1675,8 +1675,8 @@
             },
             "visible": true,
             "shape": "process",
-            "id": "acc63d37-e7d2-46d8-938e-0fbbd3580a3a",
             "zIndex": 11,
+            "id": "acc63d37-e7d2-46d8-938e-0fbbd3580a3a",
             "data": {
               "type": "tm.Process",
               "name": "Check-in Process",
@@ -1693,8 +1693,8 @@
           },
           {
             "position": {
-              "x": -59.999999999999986,
-              "y": 160
+              "x": 1.4210854715202004e-14,
+              "y": 60
             },
             "size": {
               "width": 60,
@@ -1712,8 +1712,8 @@
             },
             "visible": true,
             "shape": "process",
-            "id": "2bb28704-fcf0-425a-b64b-e81db1df4f99",
             "zIndex": 12,
+            "id": "2bb28704-fcf0-425a-b64b-e81db1df4f99",
             "data": {
               "type": "tm.Process",
               "name": "Community Engagement",
@@ -1749,8 +1749,8 @@
             },
             "visible": true,
             "shape": "process",
-            "id": "bf6220ff-d5ce-44ae-b64d-c8340a7ecd1a",
             "zIndex": 13,
+            "id": "bf6220ff-d5ce-44ae-b64d-c8340a7ecd1a",
             "data": {
               "type": "tm.Process",
               "name": "Payment sent to",
@@ -1767,8 +1767,8 @@
           },
           {
             "position": {
-              "x": -80,
-              "y": 230
+              "x": -72.5,
+              "y": 150
             },
             "size": {
               "width": 60,
@@ -1786,8 +1786,8 @@
             },
             "visible": true,
             "shape": "process",
-            "id": "5b312285-c699-4313-a34f-a0fee021a86a",
             "zIndex": 14,
+            "id": "5b312285-c699-4313-a34f-a0fee021a86a",
             "data": {
               "type": "tm.Process",
               "name": "Data Analytics and User Insights",
@@ -1804,8 +1804,8 @@
           },
           {
             "position": {
-              "x": 142.5,
-              "y": 210
+              "x": 350,
+              "y": 265
             },
             "size": {
               "width": 60,
@@ -1823,8 +1823,8 @@
             },
             "visible": true,
             "shape": "process",
-            "id": "15684324-eccb-416f-9fff-b71be01bdf01",
             "zIndex": 15,
+            "id": "15684324-eccb-416f-9fff-b71be01bdf01",
             "data": {
               "type": "tm.Process",
               "name": "Data Deletion Requests",
@@ -1860,8 +1860,8 @@
             },
             "visible": true,
             "shape": "process",
-            "id": "a0375369-c479-4377-a672-c15220be5ff9",
             "zIndex": 16,
+            "id": "a0375369-c479-4377-a672-c15220be5ff9",
             "data": {
               "type": "tm.Process",
               "name": "Security Monitoring and Compliance Audits",
@@ -1878,8 +1878,8 @@
           },
           {
             "position": {
-              "x": 100,
-              "y": -20
+              "x": -105,
+              "y": -30
             },
             "size": {
               "width": 60,
@@ -1897,8 +1897,8 @@
             },
             "visible": true,
             "shape": "process",
-            "id": "f01181fa-fbaa-4f83-a425-0db25a628bbe",
             "zIndex": 17,
+            "id": "f01181fa-fbaa-4f83-a425-0db25a628bbe",
             "data": {
               "type": "tm.Process",
               "name": "Assists with",
@@ -1915,8 +1915,8 @@
           },
           {
             "position": {
-              "x": 210,
-              "y": 310
+              "x": 150,
+              "y": 340
             },
             "size": {
               "width": 120,
@@ -1937,8 +1937,8 @@
             },
             "visible": true,
             "shape": "store",
-            "id": "955efe64-a092-4b58-9d37-0fde9fc04600",
             "zIndex": 18,
+            "id": "955efe64-a092-4b58-9d37-0fde9fc04600",
             "data": {
               "type": "tm.Store",
               "name": "User Data",
@@ -1956,8 +1956,8 @@
           },
           {
             "position": {
-              "x": 580,
-              "y": -80
+              "x": 450,
+              "y": -140
             },
             "size": {
               "width": 120,
@@ -2019,8 +2019,8 @@
             },
             "visible": true,
             "shape": "store",
-            "id": "503c8cff-3844-45a7-8e6f-917f3129cb1a",
             "zIndex": 20,
+            "id": "503c8cff-3844-45a7-8e6f-917f3129cb1a",
             "data": {
               "type": "tm.Store",
               "name": "Payment Information",
@@ -2038,8 +2038,8 @@
           },
           {
             "position": {
-              "x": -170,
-              "y": 325
+              "x": -192.5,
+              "y": 265
             },
             "size": {
               "width": 120,
@@ -2060,8 +2060,8 @@
             },
             "visible": true,
             "shape": "store",
-            "id": "1832362e-1a90-46ba-a317-84a9d6759d13",
             "zIndex": 21,
+            "id": "1832362e-1a90-46ba-a317-84a9d6759d13",
             "data": {
               "type": "tm.Store",
               "name": "Live Schedule and Event Details",
@@ -2101,8 +2101,8 @@
             },
             "visible": true,
             "shape": "store",
-            "id": "c141691b-2e3e-48fb-a20b-7c3b48d6b83b",
             "zIndex": 22,
+            "id": "c141691b-2e3e-48fb-a20b-7c3b48d6b83b",
             "data": {
               "type": "tm.Store",
               "name": "Community Interaction Data",
@@ -2142,8 +2142,8 @@
             },
             "visible": true,
             "shape": "store",
-            "id": "80d8155b-81cf-4e76-aac0-5110b8545c7b",
             "zIndex": 23,
+            "id": "80d8155b-81cf-4e76-aac0-5110b8545c7b",
             "data": {
               "type": "tm.Store",
               "name": "Analytics Data",
@@ -2183,8 +2183,8 @@
             },
             "visible": true,
             "shape": "store",
-            "id": "f71820ec-8d34-405a-b541-cff7e6792931",
             "zIndex": 24,
+            "id": "f71820ec-8d34-405a-b541-cff7e6792931",
             "data": {
               "type": "tm.Store",
               "name": "Compliance Records",
@@ -2202,8 +2202,8 @@
           },
           {
             "position": {
-              "x": 239.9999999999984,
-              "y": -160
+              "x": 80,
+              "y": -150
             },
             "size": {
               "width": 120,
@@ -2224,8 +2224,8 @@
             },
             "visible": true,
             "shape": "store",
-            "id": "71847b4a-0412-4eb3-ba7c-817701059e3f",
             "zIndex": 25,
+            "id": "71847b4a-0412-4eb3-ba7c-817701059e3f",
             "data": {
               "type": "tm.Store",
               "name": "Support Interaction Logs",
@@ -2243,8 +2243,8 @@
           },
           {
             "position": {
-              "x": 199.9999999999984,
-              "y": -90
+              "x": 202.5,
+              "y": -65
             },
             "size": {
               "width": 300,
@@ -2262,8 +2262,8 @@
             },
             "visible": true,
             "shape": "process",
-            "id": "66363010-b85f-483c-bb14-85d71a31ec4c",
             "zIndex": 26,
+            "id": "66363010-b85f-483c-bb14-85d71a31ec4c",
             "data": {
               "type": "tm.Process",
               "name": "App Server",
@@ -2280,8 +2280,8 @@
           },
           {
             "position": {
-              "x": 359.9999999999984,
-              "y": 240
+              "x": 350,
+              "y": 360
             },
             "size": {
               "width": 60,
@@ -2299,8 +2299,8 @@
             },
             "visible": true,
             "shape": "process",
-            "id": "06e58f6c-567c-46f0-b7fc-f566877143de",
             "zIndex": 27,
+            "id": "06e58f6c-567c-46f0-b7fc-f566877143de",
             "data": {
               "type": "tm.Process",
               "name": "Data Removed",
